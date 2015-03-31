@@ -1,5 +1,7 @@
 Spin glass model of evolution syntactic parameters
 
+All codes, visualization, and report produced by Karthik
+
 Implementation in MATLAB
 
 param_file_creation.m : creates workspace files for each syntactic parameter in a directory parameter_value_files
