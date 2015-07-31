@@ -12,6 +12,7 @@ parameter_script.m : performs Monte Carlo simulation for each syntactic paramete
 
 data_visualization.m : creates visual digraph for an output file (parameter/temperature) in directory output-files specified in the code
 
+Entailment Example code in java
 
 To compile the simulation, execute the following Linux command:
 
