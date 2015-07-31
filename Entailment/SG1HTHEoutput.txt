@@ -1,0 +1,8 @@
+We have 3 vertices, 4 edges,
+2 spin variables, interaction energy 1.0
+entailment energy 1000000.0, and temperature 20.0.
+After 1000000 step(s), we have
+0: + +, edges from: 2 (w/ weight 0.00878993) 1 (w/ weight 0.04989156)
+1: + 0, edges from: 2 (w/ weight 0.05719576)
+2: - 0, edges from: 1 (w/ weight 0.05536456)
+and hamiltonian 999999.91877406
